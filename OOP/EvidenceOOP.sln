@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidenceOOP", "EvidenceOOP\EvidenceOOP.csproj", "{A31075F8-40E8-4789-8AC7-C4B991093BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31075F8-40E8-4789-8AC7-C4B991093BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31075F8-40E8-4789-8AC7-C4B991093BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31075F8-40E8-4789-8AC7-C4B991093BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31075F8-40E8-4789-8AC7-C4B991093BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F551C02-5326-4BA8-8471-862B75F8966B}
+	EndGlobalSection
+EndGlobal

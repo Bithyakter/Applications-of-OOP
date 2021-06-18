@@ -1,0 +1,7 @@
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\obj\Debug\EvidenceOOP.csprojAssemblyReference.cache
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\obj\Debug\EvidenceOOP.csproj.CoreCompileInputs.cache
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\bin\Debug\EvidenceOOP.exe.config
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\bin\Debug\EvidenceOOP.exe
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\bin\Debug\EvidenceOOP.pdb
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\obj\Debug\EvidenceOOP.exe
+E:\C#\All Evidence\2nd Evidence\EvidenceOOP\EvidenceOOP\obj\Debug\EvidenceOOP.pdb
